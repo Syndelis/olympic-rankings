@@ -1,0 +1,7 @@
+name: olympic-rankings
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
